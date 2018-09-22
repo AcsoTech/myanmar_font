@@ -1,0 +1,44 @@
+@font-face {
+font-family:'Myanmar3';
+src:local('Myanmar3'), url('https://mmwebfonts.comquas.com/fonts/myanmar3.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/myanmar3.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Yunghkio';
+src:local('Yunghkio'), url('https://mmwebfonts.comquas.com/fonts/yunghkio.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/yunghkio.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Padauk';
+src:local('Padauk'), url('https://mmwebfonts.comquas.com/fonts/padauk.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/padauk.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'';
+src:local(''), url('https://mmwebfonts.comquas.com/fonts/mon3.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/mon3.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Zawgyi-One';
+src:local('Zawgyi-One'), url('https://mmwebfonts.comquas.com/fonts/zawgyi.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/zawgyi.ttf') format('ttf');
+}
+
+.yunghkio {
+    font-family:"Masterpiece Uni Sans",Yunghkio;
+    font-size:13px;
+}
+.myanmar3 {
+    font-family:"Masterpiece Uni Sans",Myanmar3;
+    font-size:13px;
+}
+.padauk {
+    font-family:"Masterpiece Uni Sans",Padauk;
+    font-size:18px;
+}
+.zawgyi {
+    font-family:Zawgyi-One;
+}
+.parabaik {
+    font-family:"Masterpiece Uni Sans",Parabaik;
+    font-size:16px;
+}
